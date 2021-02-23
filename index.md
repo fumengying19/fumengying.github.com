@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to Bob's Pages
+---
 
-You can use the [editor on GitHub](https://github.com/fumengying19/fumengying.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Biography
+---
+I am a PhD student of [PRISDL](https://ucassdl.cn/) in the School of Electronic, Electrical and Communication Engineering, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), advised by Prof. [Qixiang Ye](http://people.ucas.ac.cn/~0007279?language=en). I got a B.E. degree in Electronic Information School at Wuhan University, Wuhan in June 2018.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests include computer vision and machine learning, specifically for few-shot learning and semantic segmentation.
 
-### Markdown
+## Publications
+---
+<table border="1">
+<tr>
+<td><img src="/PMMs.png"  height="150" width="500"></td>
+<td>Boyu Yang, Chang Liu, Bohao Li, Jianbin Jiao and Qixiang Ye, 
+<b>"Prototype Mixture Models for Few-shot Semantic Segmentation"</b>, 
+European Conference on Computer Vision(ECCV), 2020 <a href="https://arxiv.org/pdf/2008.03898.pdf">[PDF]</a> <a href="https://github.com/Yang-Bob/PMMs">[Code]</a> </td>
+</tr>
+</table>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Award
+---
+National Scholarships, 2015 2016
 
-```markdown
-Syntax highlighted code block
+Second Prize of National Mathematical Contest in Modeling, 2016
 
-# Header 1
-## Header 2
-### Header 3
+Third prize of National “Challenge Cup” Technological Innovation Competition, Outstanding Award in HuBei Province, 2017
 
-- Bulleted
-- List
+Merit Student, Excellent Student Cadre of University of Chinese Academy of Sciences, 2019 2020
 
-1. Numbered
-2. List
+Merit Student, Excellent Student Cadre and Excellent Graduates of Wuhan University, 2018
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fumengying19/fumengying.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
